@@ -1,4 +1,4 @@
-# FALL 2024 LEETCODE CLUB PLAN
+# FALL 2024 LEETCODE CLUB 
 
 ![LeetCode Club Logo](./Fall-2024/image/club_logo.png)
 
@@ -34,7 +34,7 @@ During each session, we aim to tackle 1-2 problems. Our goal is for each member 
 - **3 points**: Attending a coding contest
 
 ## CLub Schedule
-- [Fall 2024](https://docs.google.com/document/d1vXjeqh9cd71D5dTcXQQb2FCFjzebaIfdrs_NxAEQ5FQ/edit)
+- [Fall 2024](https://docs.google.com/document/d/1vXjeqh9cd71D5dTcXQQb2FCFjzebaIfdrs_NxAEQ5FQ/edit?usp=sharing)
 
 ## Group Picture
 ![LeetCode Club Logo](./Fall-2024/image/first_meeting.jpg)
